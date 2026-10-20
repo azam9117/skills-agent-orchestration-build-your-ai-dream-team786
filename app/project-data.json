@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "name": "Community Portal",
+      "owner": "Mona Patel",
+      "status": "In progress",
+      "recentActivity": "Contributor onboarding flow reviewed this week",
+      "priority": "High",
+      "summary": "Making it easier for new contributors to find guidance and take their first steps."
+    },
+    {
+      "name": "Metrics Refresh",
+      "owner": "Jordan Lee",
+      "status": "Planning",
+      "recentActivity": "Dashboard requirements gathered on Monday",
+      "priority": "Medium",
+      "summary": "Refreshing team metrics so project health and progress are easier to understand."
+    },
+    {
+      "name": "Docs Accessibility",
+      "owner": "Alex Rivera",
+      "status": "On track",
+      "recentActivity": "Keyboard navigation fixes merged yesterday",
+      "priority": "Low",
+      "summary": "Improving documentation accessibility with clearer structure and keyboard-friendly navigation."
+    }
+  ]
+}
